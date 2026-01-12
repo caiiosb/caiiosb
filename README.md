@@ -1,7 +1,7 @@
 ### Olá eu sou o Caio 👋
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
-- 🌱 tecnólogo em Analise e Desenvolvimeto de Sistemas - Estacio
+- 🌱 Estudando Analise e Desenvolvimeto de Sistemas - Estacio
 - 📫 Contate-me no email: caio.barroso61@gmail.com 
   
   <div style="display: inline_block"><br>
